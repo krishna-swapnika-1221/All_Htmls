@@ -37,6 +37,9 @@ li{
     color: darkred;
     text-decoration: none;
 }
+li:hover{
+    color: yellow;
+}
 
 
 h1 {

@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: plum;
+    display: flex;
+    padding: 50px 50px;
+    justify-content: space-between;
+    align-items: center;
+}
+ul {
+    margin-left: 400px;
+    list-style: disc;
+}
+li {
+    list-style: none;
+    font-size:  20px;
+    color: green;
+    text-decoration: none;
+}
+li:hover {
+    color: blue;
+}
+ .menu {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+ }
+ #left-banner {
+    display: flex;
+ }
+ h1{
+    text-align: left;
+    font-size:  50px;
+    color: red;
+    margin:  0;
+ }
+ header1 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+ }
+
+ 
+
+
+
+
+
